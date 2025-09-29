@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBbbaPtUtBk=",
+  "dgSpecHash": "YVdxP2crQ9s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\eCommerce.API.csproj",
+  "projectFilePath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\eCommerce.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikmar\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\nikmar\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

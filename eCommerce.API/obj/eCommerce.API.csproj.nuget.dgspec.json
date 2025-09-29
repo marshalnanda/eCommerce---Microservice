@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\eCommerce.API.csproj": {}
+    "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\eCommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\eCommerce.API.csproj": {
+    "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\eCommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\eCommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\eCommerce.API.csproj",
         "projectName": "eCommerce.API",
-        "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\eCommerce.API.csproj",
+        "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\eCommerce.API.csproj",
         "packagesPath": "C:\\Users\\nikmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.API\\obj\\",
+        "outputPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj"
+              "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj"
               },
-              "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
+              "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
+    "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
         "projectName": "eCommerce.Core",
-        "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
+        "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
         "packagesPath": "C:\\Users\\nikmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\obj\\",
+        "outputPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
+    "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
         "projectName": "eCommerce.Infrastructure",
-        "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\eCommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\nikmar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -216,8 +216,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
-                "projectPath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj"
+              "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWZklpAjCxE=",
+  "dgSpecHash": "1FCjMWM26eg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nikmar\\source\\repos\\Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
+  "projectFilePath": "C:\\Users\\nikmar\\source\\repos\\marshalnanda\\eCommerce---Microservice\\eCommerce.Core\\eCommerce.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nikmar\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\nikmar\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",

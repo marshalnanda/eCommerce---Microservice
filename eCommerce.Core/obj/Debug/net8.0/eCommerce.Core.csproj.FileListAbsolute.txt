@@ -11,3 +11,16 @@ C:\Users\nikmar\source\repos\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
 C:\Users\nikmar\source\repos\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
 C:\Users\nikmar\source\repos\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
 C:\Users\nikmar\source\repos\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.deps.json
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.dll
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\bin\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.AssemblyReference.cache
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfoInputs.cache
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.AssemblyInfo.cs
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.sourcelink.json
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.dll
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\refint\eCommerce.Core.dll
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\eCommerce.Core.pdb
+C:\Users\nikmar\source\repos\marshalnanda\eCommerce---Microservice\eCommerce.Core\obj\Debug\net8.0\ref\eCommerce.Core.dll
